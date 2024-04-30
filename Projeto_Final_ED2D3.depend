@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1702174224 source:c:\users\usuario\onedrive\Área de trabalho\projeto_final_ed2\projeto_final_ed2d3\arvores.c
+	<stdio.h>
+	<stdlib.h>
+	"arvores.h"
+	<locale.h>
+	<time.h>
+
+1701471600 c:\users\usuario\onedrive\Área de trabalho\projeto_final_ed2\projeto_final_ed2d3\arvores.h
+
+1701818659 source:c:\users\usuario\onedrive\Área de trabalho\projeto_final_ed2\projeto_final_ed2d3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"arvores.h"
+	<time.h>
+
